@@ -11,7 +11,7 @@ Este repositório contém um script em Google Apps Script que percorre as célul
   - As células com **restrições de horário** devem estar **coloridas (diferentes de branco)**.
 
 - Exemplo:
-<img src="imagens/exemplo-planilha.png" alt="Planilha de exemplo" width="200"/>
+<img src="imagens/exemplo-planilha.png" alt="Planilha de exemplo" width="400"/>
 
 ---
 
